@@ -1,0 +1,14 @@
+{
+  "id": "kiosk-kasse-pwa",
+  "name": "Kiosk Kasse",
+  "short_name": "Kasse",
+  "description": "Einfache Kiosk-Kasse",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#1457d9",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
